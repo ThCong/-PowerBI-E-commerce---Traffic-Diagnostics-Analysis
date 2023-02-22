@@ -1,4 +1,3 @@
-# -PowerBI-E-commerce---Traffic-Diagnostics-Analysis
 # 1. REQUIREMENTS ANALYTICS AND BI SOLUTION CYCLE: 
 
 ![image](https://user-images.githubusercontent.com/91537767/220582974-925a6f7d-6faf-4417-961e-e7d816a18354.png)
