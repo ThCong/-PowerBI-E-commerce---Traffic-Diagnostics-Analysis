@@ -40,12 +40,15 @@ In addition, we removed unnecessary columns to reduce data capacity.
 1.4 Design data model
 
 Fact Event table have 2 relationships:
-●	 Many-to-one with Dim Date. (EventTime - Date)
-●	 Many-to-one with Dim User. (User ID - UserID)
+
+- Many-to-one with Dim Date. (EventTime - Date)
+- Many-to-one with Dim User. (User ID - UserID)
+
 Fact Order table has 3 relationships:
-●	Many-to-one with Dim Date. (CreatedAt - Date)
-●	Many-to-one with Dim User. (UserID - UserID)
-●	Many-to-one with Dim Product. (ItemID - ProductID)
+
+- Many-to-one with Dim Date. (CreatedAt - Date)
+- Many-to-one with Dim User. (UserID - UserID)
+- Many-to-one with Dim Product. (ItemID - ProductID)
 
 1.5 Exploratory Analysis
 
@@ -182,7 +185,7 @@ We can observe the number of visitors on 3 platforms: mobile, tablet and web. On
  
 Figure 43. Traffic Hourly and by days in week.
 
-	Based on traffic data by time frame of weekdays, we can only see that the traffic have a great similarity between weekdays and are almost equal. But analyzing more deeply into each specific time frame, the data team realized that the 1AM:3AM and 11AM:12PM time frames mark a larger amount of traffic than other time frames because these are the hours when users have a high demand for workspace or entertainment.
+Based on traffic data by time frame of weekdays, we can only see that the traffic have a great similarity between weekdays and are almost equal. But analyzing more deeply into each specific time frame, the data team realized that the 1AM:3AM and 11AM:12PM time frames mark a larger amount of traffic than other time frames because these are the hours when users have a high demand for workspace or entertainment.
  
  ![image](https://user-images.githubusercontent.com/91537767/220589769-0c263552-71cb-41bb-ad84-0f766758e296.png)
 
