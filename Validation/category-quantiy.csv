@@ -1,0 +1,16 @@
+﻿category,Price Segtiment,Count of id,,,,,,,
+instrument,Bronze,239,,,Sum of Count of id,Column Labels,,,
+gadget,Bronze,231,,,Row Labels,Bronze,Gold,Silver,Grand Total
+mechanism,Bronze,225,,,apparatus,184,1,22,207
+module,Bronze,225,,,contraption,174,,32,206
+tool,Bronze,222,,,device,216,,,216
+device,Bronze,216,,,dongle,211,,,211
+widget,Bronze,212,,,gadget,231,,2,233
+dongle,Bronze,211,,,instrument,239,,,239
+apparatus,Bronze,184,,,mechanism,225,,,225
+contraption,Bronze,174,,,module,225,,2,227
+contraption,Silver,32,,,tool,222,,,222
+apparatus,Silver,22,,,widget,212,,,212
+gadget,Silver,2,,,Grand Total,2139,1,58,2198
+module,Silver,2,,,,,,,
+apparatus,Gold,1,,,,,,,

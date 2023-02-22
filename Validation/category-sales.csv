@@ -1,0 +1,16 @@
+﻿category,Sum of No of event,Price Segtiment,,,,,,
+device,11070,Bronze,,,,,,
+module,10996,Bronze,,Sum of Sum of No of event,Column Labels,,,
+gadget,10992,Bronze,,Row Labels,Bronze,Gold,Silver,Grand Total
+widget,10911,Bronze,,apparatus,9974,62,1184,11220
+mechanism,10908,Bronze,,contraption,9586,,1658,11244
+dongle,10876,Bronze,,device,11070,,,11070
+instrument,10850,Bronze,,dongle,10876,,,10876
+tool,10700,Bronze,,gadget,10992,,109,11101
+apparatus,9974,Bronze,,instrument,10850,,,10850
+contraption,9586,Bronze,,mechanism,10908,,,10908
+contraption,1658,Silver,,module,10996,,111,11107
+apparatus,1184,Silver,,tool,10700,,,10700
+module,111,Silver,,widget,10911,,,10911
+gadget,109,Silver,,Grand Total,106863,62,3062,109987
+apparatus,62,Gold,,,,,,
